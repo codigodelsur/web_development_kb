@@ -1,3 +1,0 @@
-# Useful libraries
-
-WIP

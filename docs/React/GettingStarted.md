@@ -53,6 +53,11 @@ This is a short article that explains the case for using Sagas, and explains how
 <a href='https://shift.infinite.red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.o1kd288un'>Using redux-saga To Simplify Your Growing React Native Codebase</a>
 <br/>
 <br/>
+An excellent tutorial on how to use Sagas for forking operations
+<br/>
+<a href='https://medium.freecodecamp.com/async-operations-using-redux-saga-2ba02ae077b3#.q9qeidfrs'>Async operations using redux-saga</a>
+<br />
+<br />
 This is the Beginner Tutorial of the official documentation. There are more sections available to read, but they are not vital for Sagas development
 <br/>
 <a href='https://redux-saga.github.io/redux-saga/docs/introduction/BeginnerTutorial.html'>Beginner Tutorial</a>
@@ -66,6 +71,10 @@ This tutorial creates a ToDo app using several of the libraries described before
 Reselect is a library for improving the performance when components query data from the state. It can make apps dramatically faster.
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCQ0ZSr-a2o?ecver=1" frameborder="0" allowfullscreen></iframe>
+<br />
+<br />
+* <a href='http://redux.js.org/docs/recipes/ComputingDerivedData.html'>Computing Derived Data</a>: This section of the redux tutorial explains how to use reselect with react.
+
 
 ##Sass
 Sass is a modern and powerful way of managing the styling of components.
