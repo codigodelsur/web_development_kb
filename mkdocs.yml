@@ -1,0 +1,7 @@
+site_name: Web Development KB
+
+pages:
+- Home: 'index.md'
+- React:
+    - 'Getting started': 'React/GettingStarted.md'
+    - 'Libraries': 'React/Libraries.md'
