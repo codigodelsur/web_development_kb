@@ -23,6 +23,12 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>/React/Redux/</loc>
+     <lastmod>2017-03-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>

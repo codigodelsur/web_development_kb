@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Web Development KB\n\n\nThis KB will contain standards, best practices, tutorials, resources and everything related to Web Development.\n\n\nUse the menu to access the different sections of the KB.\n\n\nSections\n\n\n\n\nGetting started\n\n\nLibraries", 
+            "text": "Welcome to the Web Development KB\n\n\nThis KB will contain standards, best practices, tutorials, resources and everything related to Web Development.\n\n\nUse the menu to access the different sections of the KB.\n\n\nSections\n\n\n\n\nGetting started\n\n\nLibraries\n\n\nRedux", 
             "title": "Home"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#sections", 
-            "text": "Getting started  Libraries", 
+            "text": "Getting started  Libraries  Redux", 
             "title": "Sections"
         }, 
         {
@@ -154,6 +154,11 @@
             "location": "/React/Libraries/#additional-links", 
             "text": "A collection of awesome things regarding React ecosystem.", 
             "title": "Additional links:"
+        }, 
+        {
+            "location": "/React/Redux/", 
+            "text": "", 
+            "title": "Redux"
         }
     ]
 }
