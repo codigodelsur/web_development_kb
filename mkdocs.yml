@@ -5,3 +5,4 @@ pages:
 - React:
     - 'Getting started': 'React/GettingStarted.md'
     - 'Libraries': 'React/Libraries.md'
+    - 'Redux': 'React/Redux.md'

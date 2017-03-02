@@ -7,3 +7,4 @@ Use the menu to access the different sections of the KB.
 ##Sections
 * [Getting started](React/GettingStarted.md)
 * [Libraries](React/Libraries.md)
+* [Redux](React/Redux.md)
