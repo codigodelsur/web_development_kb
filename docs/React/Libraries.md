@@ -48,5 +48,13 @@
 * <a href='https://atom.io/packages/minimap-hide'>minimap-hide</a>: Hide the minimap when pane isn't focus
 * <a href='https://atom.io/packages/open-recent'>open-recent</a>: Open recent files in the current window, and recent folders (optionally) in a new window.
 * <a href='https://atom.io/packages/zentabs'>zentabs</a>: Keep the opened tabs amount below specified limit
+* <a href='https://atom.io/packages/js-hyperclick'>js-hyperclick</a>: A hyperclick provider that lets you jump to where variables are defined.
+* <a href='https://atom.io/packages/sync-settings'>zentabs</a>: Synchronize settings, keymaps, user styles, init script, snippets and installed packages across Atom instances.
+* <a href='https://atom.io/packages/git-time-machine'>git-time-machine</a>: Visually interact with git commit history for a file instances.
 ######Nuclide
 * <a href='https://nuclide.io/'>Nuclide</a>: Nuclide is built as a single package on top of Atom to provide hackability and the support of an active community. It provides a first-class development environment for React Native, Hack and Flow projects. It is made by Facebook and has incredible features (debugging, remote development, etc).
+
+##Additional links:
+
+<a href='https://github.com/enaqx/awesome-react'>A collection of awesome things regarding React ecosystem.</a></p>
+<br />

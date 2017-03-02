@@ -38,12 +38,6 @@ It is important to follow the whole playlist, as it explains fundamental concept
 
 <br />
 
-##Additional links:
-
-<a href='https://github.com/enaqx/awesome-react'>A collection of awesome things regarding React ecosystem.</a></p>
-<br />
-
-
 ##Immutable JS
 This is a tutorial of a great library for simplifying the logic inside reducers
 <br />
